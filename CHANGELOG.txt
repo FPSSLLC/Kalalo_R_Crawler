@@ -1,0 +1,18 @@
+Changelog for Scraper Framework
+
+Date: November 13, 2023
+
+New Features:
+- Implemented a versatile browser class capable of managing Selenium for both local and production environments.
+- Introduced a new HTTP class, 'http_new', found in the 'utils' folder, contributed by Daryl Ramirez.
+- Added this changelog file to document updates.
+- Added support for cloudscraper library.
+- Added support for js2py library.
+
+Enhancements:
+- Included a browser example within 'scrapers/templates/scraper-browser.py' for reference and guidance.
+
+Details:
+- The 'browser' class enables seamless handling of Selenium, facilitating smoother operations for local and production settings.
+- 'http_new', a novel HTTP class courtesy of Daryl Ramirez, offers enhanced functionality and capabilities within the 'utils' directory.
+- This changelog.txt will serve as a record of future modifications and updates to the scraper framework.
